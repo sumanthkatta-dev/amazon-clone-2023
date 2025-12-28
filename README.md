@@ -1,25 +1,31 @@
-# ShopZone - E-Commerce Demo Project
+# General E-Commerce UI 🛒
 
-## 📚 Portfolio Project Disclaimer
-This is a **practice e-commerce website** created by **Sumanth** for educational and portfolio purposes only. This is **NOT a real shopping website** and no actual transactions can be made.
+![Status](https://img.shields.io/badge/Status-Archived-grey?style=for-the-badge)
+![Date](https://img.shields.io/badge/Built-Nov_2023-blue?style=for-the-badge)
 
-## 🎯 Purpose
-This project was created to demonstrate:
-- HTML/CSS web development skills
-- E-commerce website layout design
-- Responsive web design principles
-- Frontend development capabilities
+> **First Milestone:** This project represents my initial steps into web development. It is a pixel-perfect HTML/CSS recreation of a standard e-commerce shopping interface.
 
-## 🛠️ Technologies Used
-- HTML5
-- CSS3
-- Font Awesome Icons
+## 🖼️ Project Preview
+![Project Preview](./preview.jpg)
+*(A snapshot of the static UI implementation)*
 
-## ⚠️ Important Notice
-This is a static demo website inspired by e-commerce platforms, built purely for learning purposes. It is not affiliated with or endorsed by any company.
+## 🛠️ Tech Stack
+* **HTML5**
+* **CSS3** (Flexbox & Grid)
+* **No Frameworks** (Pure Code)
 
-## 👨‍💻 Created By
-**Sumanth** - Web Developer
+## 🚀 How to View
+[**🔗 View Live Site**](https://sumanthkatta-dev.github.io/online-store-ui-2023/)
 
-## 📄 License
-This project is for educational purposes only.
+> **⚠️ Seeing a Red "Dangerous Site" Warning?**
+>
+> Because this project painstakingly recreates the layout using original brand assets (logos/names) for educational realism, Google's automated security bots may flag it as "Phishing." **This is a false positive.**
+>
+> **How to bypass the warning:**
+> 1. Click the **"Details"** button on the red screen.
+> 2. Click **"Visit this unsafe site"** (text is often underlined).
+>
+> *This is a 100% static student portfolio project and is completely safe to view.*
+
+---
+*Developed by Sumanth Katta*
