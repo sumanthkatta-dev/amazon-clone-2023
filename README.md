@@ -15,7 +15,7 @@
 * **No Frameworks** (Pure Code)
 
 ## 🚀 How to View
-[**🔗 View Live Site**](https://sumanthkatta-dev.github.io/online-store-ui-2023/)
+[**🔗 View Live Site**](https://sumanthkatta-dev.github.io/amazon-clone-2023/)
 
 > **⚠️ Seeing a Red "Dangerous Site" Warning?**
 >
